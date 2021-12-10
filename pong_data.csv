@@ -1,0 +1,2 @@
+ball_x,ball_y,ball_vx,ball_vy,paddle_direction,paddle_y,Ball.RADIUS,Paddle.L,Paddle.STEP,WIDTH,HEIGHT,BORDER,VELOCITY,FPS
+770,200,-12,-5,0,200,10,80,20,800,400,20,12,30
